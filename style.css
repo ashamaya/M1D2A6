@@ -1,0 +1,11 @@
+.page-wrapper{
+  background-color: white;
+}
+.page-top{
+    background-color: red;
+    width: 700px;
+    height: 150px;
+    margin-left: 300px;
+    margin-bottom: 200px;
+    margin-top: 200px;
+}
